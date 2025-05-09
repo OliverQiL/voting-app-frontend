@@ -1,0 +1,42 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a, nav button {
+  margin-right: 10px;
+}
+
+input, button {
+  margin: 5px 0;
+  padding: 8px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
